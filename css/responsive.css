@@ -293,7 +293,7 @@ body {
 	.main-menu ul>li.dropdown>ul>li.dropdown::after {
 		position: absolute;
 		right: 25px;
-		font-family: "mvzinfotech-base-icons";
+		font-family: "qsuite-con-base-icons";
 		font-size: 16px;
 		content: "\e814";
 		font-weight: 600;
@@ -795,7 +795,7 @@ body {
 	}
 
 	/*=== Homepage 01 ===*/
-	.pbmit-tab .mvzinfotech-tabs-heading {
+	.pbmit-tab .qsuite-con-tabs-heading {
 		font-size: 30px;
 		line-height: 40px;
 	}
@@ -819,7 +819,7 @@ body {
 	}
 
 	/*=== Portfolio Grid Col ===*/
-	.pbmit-portfolio-style-2 .mvzinfotech-box-content {
+	.pbmit-portfolio-style-2 .qsuite-con-box-content {
 		bottom: 30px;
 		left: 30px;
 		padding: 25px;
@@ -937,7 +937,7 @@ body {
 		padding: 0 15px;
 	}
 
-	.pbmit-tab .mvzinfotech-tabs-heading {
+	.pbmit-tab .qsuite-con-tabs-heading {
 		font-size: 26px;
 		line-height: 30px;
 	}
@@ -1131,11 +1131,11 @@ body {
 		padding-left: 0;
 	}
 
-	.mvzinfotech-ptable-style-1 .pbmit-pricing-table-box {
+	.qsuite-con-ptable-style-1 .pbmit-pricing-table-box {
 		padding: 30px;
 	}
 
-	.mvzinfotech-ptable-style-1 .mvzinfotech-ptable-frequency {
+	.qsuite-con-ptable-style-1 .qsuite-con-ptable-frequency {
 		margin-left: 12px;
 		font-size: 15px;
 	}
@@ -1161,7 +1161,7 @@ body {
 	}
 
 	/*=== Portfolio Grid Col ===*/
-	.pbmit-portfolio-style-2 .mvzinfotech-box-content {
+	.pbmit-portfolio-style-2 .qsuite-con-box-content {
 		bottom: 25px;
 		left: 25px;
 		padding: 20px;
@@ -1277,7 +1277,7 @@ body {
 		flex-wrap: inherit;
 	}
 
-	.pbmit-tab .mvzinfotech-tabs-heading {
+	.pbmit-tab .qsuite-con-tabs-heading {
 		font-size: 22px;
 		padding-right: 20px;
 	}
@@ -1299,12 +1299,12 @@ body {
 		width: 100%;
 	}
 
-	.pbmit-portfolio-style-1 .mvzinfotech-box-content {
+	.pbmit-portfolio-style-1 .qsuite-con-box-content {
 		left: 20px;
 		padding: 20px 20px;
 	}
 
-	.pbmit-portfolio-style-1 .mvzinfotech-titlebox h3 {
+	.pbmit-portfolio-style-1 .qsuite-con-titlebox h3 {
 		font-size: 20px;
 		line-height: 28px;
 	}
@@ -1321,7 +1321,7 @@ body {
 	}
 
 	/*=== Pricing ===*/
-	.mvzinfotech-ptable-style-1 .pbmit-ptable-cols .pbmit-ptable-col {
+	.qsuite-con-ptable-style-1 .pbmit-ptable-cols .pbmit-ptable-col {
 		margin-bottom: 30px;
 	}
 
@@ -1524,7 +1524,7 @@ body {
 		display: block;
 	}
 
-	.pbmit-tab .mvzinfotech-tabs-heading {
+	.pbmit-tab .qsuite-con-tabs-heading {
 		font-size: 30px;
 		padding-right: 20px;
 	}
@@ -1546,7 +1546,7 @@ body {
 		width: 100%;
 	}
 
-	.pbmit-testimonial-style-1 .mvzinfotech-post-item {
+	.pbmit-testimonial-style-1 .qsuite-con-post-item {
 		display: block !important;
 	}
 
@@ -1559,7 +1559,7 @@ body {
 		width: 100%;
 	}
 
-	.pbmit-testimonial-style-1 .mvzinfotech-box-content {
+	.pbmit-testimonial-style-1 .qsuite-con-box-content {
 		padding-top: 115px;
 	}
 
@@ -1649,15 +1649,15 @@ body {
 		width: 100%;
 	}
 
-	.mvzinfotech-ele-fid-style-3 .pbmit-fld-wrap {
+	.qsuite-con-ele-fid-style-3 .pbmit-fld-wrap {
 		display: block !important;
 	}
 
-	.mvzinfotech-ele-fid-style-3 .pbmit-heading-desc {
+	.qsuite-con-ele-fid-style-3 .pbmit-heading-desc {
 		padding: 20px 0;
 	}
 
-	.mvzinfotech-ele-fid-style-3 a.pbmit-svg-btn {
+	.qsuite-con-ele-fid-style-3 a.pbmit-svg-btn {
 		padding-left: 0;
 	}
 
@@ -1793,7 +1793,7 @@ body {
 	}
 
 	/*=== Portfolio Grid Col ===*/
-	.pbmit-portfolio-style-2 .mvzinfotech-box-content {
+	.pbmit-portfolio-style-2 .qsuite-con-box-content {
 		bottom: 20px;
 		left: 20px;
 		padding: 30px;
@@ -1908,7 +1908,7 @@ body {
 	}
 
 	/*=== Homepage 01 ===*/
-	.pbmit-tab .mvzinfotech-tabs-heading {
+	.pbmit-tab .qsuite-con-tabs-heading {
 		font-size: 16px;
 		padding-right: 30px;
 	}

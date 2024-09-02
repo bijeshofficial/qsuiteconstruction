@@ -1,0 +1,34 @@
+<section class="tloe_services-showcase">
+					<div class="tloe_marquee-container">
+						<div class="tloe_marquee">
+							<div class="tloe_marquee-item">Construction</div>
+							<div class="tloe_marquee-item">New Homes Construction</div>
+							<div class="tloe_marquee-item">Home Extensions</div>
+							<div class="tloe_marquee-item">Home Remodeling</div>
+							<div class="tloe_marquee-item">Loft Conversion</div>
+							<div class="tloe_marquee-item">Construction</div>
+							<div class="tloe_marquee-item">New Homes Construction</div>
+							<div class="tloe_marquee-item">Home Extensions</div>
+							<div class="tloe_marquee-item">Home Remodeling</div>
+							<div class="tloe_marquee-item">Loft Conversion</div>
+						</div>
+						<div class="tloe_overlay"></div>
+					</div>
+					<div class="tloe_marquee-container">
+						<div class="tloe_marquee tloe_marquee-reverse">
+							<div class="tloe_marquee-item">Roofing</div>
+							<div class="tloe_marquee-item">Driveway and Patio</div>
+							<div class="tloe_marquee-item">Plastering and Rendering</div>
+							<div class="tloe_marquee-item">Plumbing and Heating</div>
+							<div class="tloe_marquee-item">Electrical Installation</div>
+							<div class="tloe_marquee-item">Central Vacuum System</div>
+							<div class="tloe_marquee-item">Roofing</div>
+							<div class="tloe_marquee-item">Driveway and Patio</div>
+							<div class="tloe_marquee-item">Plastering and Rendering</div>
+							<div class="tloe_marquee-item">Plumbing and Heating</div>
+						</div>
+						<div class="tloe_overlay"></div>
+					</div>
+				</section>
+
+
