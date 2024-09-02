@@ -4,12 +4,12 @@ document.addEventListener('DOMContentLoaded', function () {
   // Stop zoom-in and zoom-out animation after 2 seconds
   setTimeout(function () {
     document.getElementById('logo-container').style.animation = 'none';
-  }, 800);
+  }, 8000);
 
   // Display the logo for 4 seconds before fading out
   setTimeout(function () {
     document.getElementById('logo-container').style.opacity = 0;
     document.getElementById('company-logo').style.display = 'none';
     document.getElementById('content-container').style.opacity = 1;
-  }, 820);
+  }, 8200);
 });
